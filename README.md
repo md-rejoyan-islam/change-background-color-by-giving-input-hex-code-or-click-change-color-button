@@ -1,4 +1,4 @@
-## Change Background Color By Clicking & code copy
+## Change Background Color By Clicking Or Giving Input Hex Color code
 ****
 
 ### Using Tools
